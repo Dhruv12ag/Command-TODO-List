@@ -12,11 +12,11 @@ This is a command-line based TODO List application written in Python. It allows 
 6. Sort tasks by priority
 
 # Requirements
-Python 3.x
-json module (included in Python standard library)
-os module (included in Python standard library)
-datetime module (included in Python standard library)
+ Python 3.x
+ json module (included in Python standard library)
+ os module (included in Python standard library)
+ datetime module (included in Python standard library)
 
 # Contact
-GitHub: dhruv12ag
-Email: 2022meb1307@iitrpr.ac.in
+ GitHub: dhruv12ag
+ Email: 2022meb1307@iitrpr.ac.in
